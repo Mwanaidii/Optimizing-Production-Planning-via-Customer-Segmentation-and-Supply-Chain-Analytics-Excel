@@ -14,6 +14,7 @@ In this project, we use customer segmentation and Excel analytics to streamline 
 SmartHome Solutions Inc., a trailblazer in smart consumer electronics since 1995 and recipient of the Innovation Award at the International Electronics Show, is renowned for its cutting-edge appliances and customer-first innovation. This project leverages Microsoft Excel to drive intelligent production planning through advanced customer segmentation and profiling.
 
 Key Objectives:
+
 ✔ Segment customers by behavior, geography, and preferences to unlock actionable insights
 
 ✔ Align production and inventory with real-time demand using data analytics
@@ -54,6 +55,7 @@ The logistics and supply chain industry is undergoing a significant transformati
 This case study contains 4 datasets and they are as follows;
 
  Customer Data:
+
 ✔ Customer_ID: A unique identifier for each customer.
 
 ✔ Age (years): The age of the customer in years.
@@ -65,6 +67,7 @@ This case study contains 4 datasets and they are as follows;
 ✔ Geographic Location: The customer's geographic location (e.g., city, state).
  
 Sales Data:
+
 ✔ Transaction_ID: A unique identifier for each sales transaction.
 
 ✔ Customer_ID: The identifier linking each sale to a customer.
