@@ -15,7 +15,9 @@ SmartHome Solutions Inc., a trailblazer in smart consumer electronics since 1995
 
 Key Objectives:
 ✔ Segment customers by behavior, geography, and preferences to unlock actionable insights
+
 ✔ Align production and inventory with real-time demand using data analytics
+
 ✔ Minimize overproduction, optimize distribution, and enhance customer satisfaction
 This analysis ensures that SmartHome Solutions continues delivering innovation with precision.
 
@@ -28,16 +30,24 @@ You can access the dataset [here](https://drive.google.com/drive/folders/1Y7RuAi
 SmartHome Solutions Inc. faces a significant challenge in optimizing its supply chain and production planning. The traditional approach to production planning, based primarily on historical data and market forecasts, poses various obstacles:
 
 ✔ Inefficient Production: Relying on historical data often results in overproduction or underproduction, causing operational inefficiencies and increased costs.
+
 ✔ Customer Disconnection: The company lacks a deep understanding of its diverse customer base, making it challenging to align production with specific customer demands.
+
 ✔ Inventory Management: Inefficient production planning has led to excess inventory, tying up valuable resources and impacting the company's profitability.
 
 ## Rationale for the Project
+
 The logistics and supply chain industry is undergoing a significant transformation, necessitating a data-driven approach. Here are the top five reasons highlighting the significance of this project:
 
+
 ✔ Operational Efficiency: By leveraging customer data, SmartHome Solutions Inc. can streamline production processes, reduce operational costs, and optimize resource allocation, leading to a more efficient supply chain.
+
 ✔ Customer Satisfaction: Understanding customer preferences and demand patterns enables the company to provide better product availability and timely deliveries, ultimately enhancing customer satisfaction.
+
 ✔ Competitive Edge: In a dynamic market, data-driven supply chain planning gives SmartHome Solutions Inc. a competitive advantage by enabling rapid adaptation to market changes and customer demands.
+
 ✔ Cost Savings: Eliminating overproduction and minimizing excess inventory leads to significant cost reductions, bolstering the company's financial health.
+
 ✔ Sustainability: Reducing waste through accurate production planning aligns with the company's sustainability goals, demonstrating corporate responsibility.
 
 ### Data Description
