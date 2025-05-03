@@ -1,5 +1,5 @@
 # Optimizing-Production-Planning-via-Customer-Segmentation-and-Supply-Chain-Analytics
-In this project, we use customer segmentation and Excel analytics to streamline production and minimize inventory mismatches at SmartHome Solutions Inc.
+In this project, I use customer segmentation and Excel analytics to streamline production and minimize inventory mismatches at SmartHome Solutions Inc.
 
 ### Table of Contents
 - [Project Overview](#project-overview)
